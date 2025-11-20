@@ -3,7 +3,7 @@
 <!-- Begin Toc -->
 
 ## Table of Contents
-[![image_0.png](./Model_Physical_System_in_various_fidelity_levels2_media/image_0.png)![image_1.png](./Model_Physical_System_in_various_fidelity_levels2_media/image_1.png)](#TMP_4599)
+[![image_0.png](./Model_Physical_System_in_various_fidelity_levels2_media/image_0.png)<img src="./Model_Physical_System_in_various_fidelity_levels2_media/image_1.png" width="30%">](#TMP_4599)
  
 [Hand\-On Model Physical System in various fidelity level](#TMP_7546)
  
